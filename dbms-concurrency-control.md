@@ -3,4 +3,4 @@
 - https://en.wikipedia.org/wiki/Two-phase_locking
 - https://en.wikipedia.org/wiki/Timestamp-based_concurrency_control
 - https://www.geeksforgeeks.org/timestamp-based-concurrency-control/
-- 
+- https://firebase.google.com/docs/firestore/transaction-data-contention
