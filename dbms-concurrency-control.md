@@ -1,0 +1,6 @@
+- https://stackoverflow.com/questions/5751271/optimistic-vs-multi-version-concurrency-control-differences#:~:text=To%20sum%20up%2C%20optimistic%20locking,transactions%20which%20span%20multiple%20objects.
+- https://www.guru99.com/dbms-concurrency-control.html
+- https://en.wikipedia.org/wiki/Two-phase_locking
+- https://en.wikipedia.org/wiki/Timestamp-based_concurrency_control
+- https://www.geeksforgeeks.org/timestamp-based-concurrency-control/
+- 
